@@ -2,8 +2,8 @@
 spring:
   mail:
     host: smtp.163.com
-    username: ithobart@163.com
-    password: xw19940511
+    username: 用户名
+    password: 授权码
     properties:
       mail:
         smtp:

@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class mailTest{
+public class MailTest {
 
     @Autowired
     private MailService mailService;
