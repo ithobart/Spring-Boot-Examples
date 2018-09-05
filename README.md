@@ -1,2 +1,2 @@
 # Spring-Boot-Examples
-Spring Boot 教程、技术栈示例代码，快速简单上手教程。
+Spring Boot 使用的各种示例，以最简单、最实用为标准
